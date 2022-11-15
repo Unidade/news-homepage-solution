@@ -1,0 +1,14 @@
+{
+  "name": "news-homepage-solution",
+  "version": "1.0.0",
+  "description": "Solution for the FrontendMentor News Homepage Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dario Rodrigues",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
