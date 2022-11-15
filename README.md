@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./assets/images/Screenshot%20News%20Homepage.jpeg)
+![](./docs/assets/images/Screenshot%20News%20Homepage.jpeg)
 
 ### Links
 
