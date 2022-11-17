@@ -11,6 +11,10 @@
     --dark-grayish-blue: 236 13% 42%;
     --very-dark-blue: 240 100% 5%;
   }
+  body {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
 }
 
 @layer components {
